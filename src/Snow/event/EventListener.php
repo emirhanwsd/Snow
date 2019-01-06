@@ -2,7 +2,6 @@
 
 namespace Snow\event;
 
-use pocketmine\command\FormattedCommandAlias;
 use pocketmine\event\level\ChunkLoadEvent;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
